@@ -1,0 +1,51 @@
+.s-banner {
+    width: 100%;
+    background-size: cover;
+}
+.s-top-right {
+    position: relative;
+    top: 2px;
+    right: 10px;
+    color:#031d3b ;
+    font-family: "URW Chancery L", cursive, sans-serif;
+    font-size: 50px;
+    background-color:#A3D6D4;  
+  }
+.s-img{
+      position: relative;
+      background-size: cover;
+      float: left;
+      padding: 30px;
+      padding-right: 30px;
+}
+.s-img1{
+    position: relative;
+    background-size: cover;
+    padding-right: 60px;
+    padding-top: 30px;
+    /*display: inline-block;*/
+    float: right;
+    padding-bottom: 20px;
+    border-radius: 20%;
+}
+
+.s-contact{
+    position: relative;
+    color: #008080 ;
+    float: left;
+    padding-top: 30px;
+  
+}
+.s-fb{
+    background-color: darkblue;
+    border-radius: 30%;
+    color: white;
+    font-family: "URW Chancery L", cursive, sans-serif;
+   
+}
+.s-text{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}

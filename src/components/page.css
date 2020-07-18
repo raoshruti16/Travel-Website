@@ -1,0 +1,37 @@
+.title {
+    color: #284669;
+    text-align: center;
+    padding: 0px;
+    font-size: 30px;
+}
+
+.im{
+    position: relative;
+    float: left;
+    padding: 30px;
+    padding-right: 30px;
+    background: '#008080';
+    
+}
+
+.button4 {border-radius: 12px;
+  background-color: powderblue; 
+  border: none;
+  color: #031d3b;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer; 
+}
+a{
+  text-decoration: none;
+}
+
+.linktext{
+  font-family: cursive;
+  color: #031d3b;
+}
+

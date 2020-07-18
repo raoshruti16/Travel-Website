@@ -1,0 +1,40 @@
+{
+  "itemlist" :
+  [
+    {
+      "src"      : "Japan.jpg",
+      "caption"  : "JAPAN",
+      "location" : "The land of history"
+    },
+
+    {
+      "src"      : "China.jpg",
+      "caption"  : "CHINA",
+      "location" : "Land of longest-running civilizations"
+    },
+
+    {
+      "src"      : "India.jpg",
+      "caption"  : "INDIA",
+      "location" : "The land of culture"
+    },
+
+    {
+      "src"      : "USA.jpg",
+      "caption"  : "UNITED STATES OF AMERICA",
+      "location" : "Land of development"
+    },
+
+    {
+      "src"      : "Europe.jpg",
+      "caption"  : "EUROPE",
+      "location" : "Land of attractions"
+    },
+
+    {
+      "src"      : "Aus.jpg",
+      "caption"  : "AUSTRALIA",
+      "location" : "Land of serene"
+    }
+  ]
+}

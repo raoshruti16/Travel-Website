@@ -1,0 +1,42 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #A3D6D4;
+}
+
+h4, h5, h6 {
+  margin: 0.3rem auto;
+}
+
+img {
+ margin: 0;
+}
+
+.photo-entry-block {
+  margin: 2rem;
+  width: 30%;
+}
+
+.photo-img {
+  width: 80%;
+}
+.button3{
+  border-radius: 12px;
+  background-color: #031d3b;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.ok{
+  color:white;
+  text-decoration: none;
+  font-family: cursive;
+}
